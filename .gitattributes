@@ -1,0 +1,2 @@
+# Vectors are exact bytes. No line-ending or encoding conversion, on any platform.
+* -text
